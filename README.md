@@ -1,5 +1,7 @@
 # QuickBlox Hacktoberfest Challenge
 
+![schwags (1)](https://github.com/user-attachments/assets/85407627-82c5-4b40-a219-1755f1053f77)
+
 ### [Register here](https://bit.ly/QuickBloxHacktoberfestChallenge)
 
 ## Table of Contents
