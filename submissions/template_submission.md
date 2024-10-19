@@ -12,7 +12,7 @@ GitHub handle:
 ## Technical Details
 **Tech Stack**: What technologies, frameworks, and platforms did you utilize to build your project?
 
-**QuickBlox Integration**: Describe how you used QuickBlox products or SDKs in your project. 
+**QuickBlox Integration**: Describe how you used QuickBlox products or SDKs in your project
 
 ## Submission Links
 **Project Repository**: Please share a link to your project's public repository.
