@@ -6,7 +6,7 @@ GitHub handle: Mrinank-Bhowmick
 
 **Project Title**: CyberMedix
 
-**Description**: You are CyberMedix, an intelligent healthcare assistant designed to provide accurate, safe, and reliable health-related information to users.
+**Description**: CyberMedix is an intelligent healthcare assistant designed to provide accurate, safe, and reliable health-related information to users.
 
 ## Technical Details
 
