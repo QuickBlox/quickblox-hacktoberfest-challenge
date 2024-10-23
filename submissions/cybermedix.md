@@ -12,7 +12,7 @@ GitHub handle: Mrinank-Bhowmick
 
 **Tech Stack**: React, QuickBlox SDK
 
-**QuickBlox Integration**: CyberMedix leverages QuickBlox's SmartChat Assistant for real-time healthcare assistance through personalized chat. Linked to a QuickBlox user, the assistant interacts in both private and group chats, providing accurate health-related advice from a well-curated knowledge base. The SmartChat Assistant adapts its responses based on user queries, delivering context-aware, personalized support. If a query is beyond its scope, it escalates by consulting OpenAI or using custom webhooks, ensuring a seamless and reliable communication experience.
+**QuickBlox Integration**: CyberMedix leverages QuickBlox's SmartChat Assistant for real-time healthcare assistance through personalized chat. Linked to a QuickBlox user, the assistant interacts in both private and group chats, providing accurate health-related advice from a well-curated knowledge base. The SmartChat Assistant adapts its responses based on user queries, delivering context-aware, personalized support. If a query is beyond its scope, it escalates by consulting OpenAI from quickblox AI feature, ensuring a seamless and reliable communication experience.
 
 ## Submission Links
 
