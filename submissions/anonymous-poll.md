@@ -41,8 +41,11 @@ Key features include:
 (If deployed, you can add the link here)
 
 **Demo Video/Images**:  
-![image](https://github.com/user-attachments/assets/eea83fd8-efc7-4f41-a749-6a1e828f5808)
+## Image
+![image](https://github.com/user-attachments/assets/2658ea80-f361-4e8a-991f-0f5371f39af3)
 
+## Video
+![video](https://drive.google.com/file/d/1sH0F1rUw_Ks1rmfXs59lGA5udaGK_wCk/view?usp=sharing)
 
 ## Additional Information
 
