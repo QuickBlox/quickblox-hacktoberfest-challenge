@@ -45,7 +45,8 @@ Key features include:
 ![image](https://github.com/user-attachments/assets/2658ea80-f361-4e8a-991f-0f5371f39af3)
 
 ## Video
-![video](https://drive.google.com/file/d/1sH0F1rUw_Ks1rmfXs59lGA5udaGK_wCk/view?usp=sharing)
+
+https://github.com/user-attachments/assets/49882ba3-eb88-4470-bfa4-edda85b55c48
 
 ## Additional Information
 
